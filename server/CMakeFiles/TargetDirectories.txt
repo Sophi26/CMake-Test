@@ -1,0 +1,3 @@
+/mnt/c/Users/Sophi/Documents/GitHub/CMake-Test/server/CMakeFiles/rebuild_cache.dir
+/mnt/c/Users/Sophi/Documents/GitHub/CMake-Test/server/CMakeFiles/server.dir
+/mnt/c/Users/Sophi/Documents/GitHub/CMake-Test/server/CMakeFiles/edit_cache.dir
